@@ -57,6 +57,6 @@ console.log(person.name)
 // COMPROBAR SI UNA KEY EXISTE / key in object
 
 if ('city' in person) {
-  console.log('city existe')
+  console.log('city existe');
 } 
 
